@@ -12,3 +12,6 @@ We are implementing all Data structures and algorithms.
 - https://www.interviewbit.com/problems/shortest-unique-prefix/
 - https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 - https://leetcode.com/problems/word-search-ii/
+
+# Heap Data Structure
+- https://www.geeksforgeeks.org/building-heap-from-array/?ref=rp
