@@ -27,6 +27,9 @@ We are implementing all Data structures and algorithms.
 - https://www.scaler.com/academy/mentee-dashboard/classroom/heaps-bae7b539-aac1-4d4e-9850-f5752d04445b/#assignment%2F4369 (Private)
 - https://www.scaler.com/academy/mentee-dashboard/classroom/heaps-bae7b539-aac1-4d4e-9850-f5752d04445b/#homework%2F446 (Private)
 - https://www.interviewbit.com/problems/meeting-rooms/
+- https://leetcode.com/problems/top-k-frequent-elements/
+- https://leetcode.com/problems/top-k-frequent-words/
+- https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 
 
 
@@ -36,3 +39,4 @@ We are implementing all Data structures and algorithms.
 
 # Array
 - https://leetcode.com/problems/max-chunks-to-make-sorted/
+- https://leetcode.com/problems/sliding-window-maximum/
