@@ -40,3 +40,9 @@ We are implementing all Data structures and algorithms.
 # Array
 - https://leetcode.com/problems/max-chunks-to-make-sorted/
 - https://leetcode.com/problems/sliding-window-maximum/
+
+
+# Greedy
+- https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
+- https://www.interviewbit.com/problems/assign-mice-to-holes/
+- https://www.interviewbit.com/problems/distribute-candy/
