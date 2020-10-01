@@ -35,6 +35,7 @@ We are implementing all Data structures and algorithms.
 
 # Recursion
 - https://www.geeksforgeeks.org/print-all-interleavings-of-given-two-strings/
+- https://www.geeksforgeeks.org/count-natural-numbers-whose-permutation-greater-number/
 
 
 # Array
