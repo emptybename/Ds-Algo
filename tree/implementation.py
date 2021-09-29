@@ -1,4 +1,5 @@
 from collections import deque
+from queue import Queue
 
 
 class TNode:
@@ -85,6 +86,19 @@ class Implementation:
         while stack2:
             print(stack2.pop().val, end=" ")
 
+    def level_order_traversal(self, root):
+        que = Queue()
+        if root is None:
+            return
+        que.put(root)
+        while que.empty() is False:
+            node = que.get()
+            print(node.val, end=" ")
+            if node.left is not None:
+                que.put(node.left)
+            if node.right is not None:
+                que.put(node.right)
+
     def build(self):
         root = TNode(10)
         self.add_left(root, 2)
@@ -111,4 +125,6 @@ print()
 tree.postorder_traversal(root)
 print()
 tree.iter_postorder_traversal(root)
+print()
+tree.level_order_traversal(root)
 print()
